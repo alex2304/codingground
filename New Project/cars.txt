@@ -1,0 +1,4 @@
+("1" "Mitsubishi Gallardo" "150" "R123" "24.09.2011" "Yaponia" "Hatchback" "Dark black" "5" "2500000")
+("2" "Mitsubishy Lancer Evolution" "155" "R125" "4.5.2015" "Yaponia" "Pickup" "White" "3" "1750000")
+("3" "Lada 2110" "250" "ART1" "17.10.1892" "Russia" "Sedan" "Red" "13" "100000")
+("4" "Lada Priora" "200" "ARG65" "5.8.1965" "Russia" "Sedan" "White" "3" "200000")

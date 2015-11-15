@@ -1,0 +1,6 @@
+("1" "Add a new car(2.1a)")
+("2" "Number of cars having mark <mark> that were sold in period <period>(2.1b)")
+("3" "Marks of cars that have seats count and engine power in selected range(2.2a)")
+("4" "Number of cars sold in the selected range grouped by marks(2.2b)")
+("5" "What cars delivered from the country <country>(2.3a)")
+("6" "Remove from db information about car with engine number <number>(2.3b)")
