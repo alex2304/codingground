@@ -1,0 +1,4 @@
+(ID "Sale ID" NIL)
+(ID_EXTERNAL "Car ID" NIL)
+(BUYER_NAME "Consumer name" NIL)
+(BUY_DATE "Sale date" NIL)
